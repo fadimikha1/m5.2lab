@@ -38,6 +38,7 @@ Semantic html: Nothing really happens when i try to use the keyboard to navigate
 
 Audio: TO allow access to audio, all you would need to do is to throw a download prompt for the user to just download the audio instead of using the html player. 
 
+Forms: TO add a non user but machine readbale label, i just added a alt txt field to the search bar input field which allowed for machine readable but not visible labels. 
 
 
 Other consideratiosn: I would persoanlly include a player at the very top that would prompt the user if they are using any accessibility feautres, and if they do not repsond within 10 seconds, then it would start reading off the site elements automatially. I would also include a generci sumary of the site in the auto playing site readout.
